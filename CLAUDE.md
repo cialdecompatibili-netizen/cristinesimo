@@ -109,3 +109,4 @@ Tutto da Desktop Commander sul PC di Mirco, con Python. Il connettore GitHub non
 
 Hero attaccato al menu (cristinesimo, 01/11/2026)
 - REGOLA: nell'hero home il testo parte SUBITO sotto il menu, senza spazio vuoto tra fine menu e contenuto. Il fondale resta a tutta altezza (min-height 100svh - 80px, regola adattiva invariata in gaming.css): si cambia solo il blocco hero in `_data/blocks_home.json` con `style="align-items:flex-start;padding-top:clamp(1.5rem,5vh,3.5rem)"` sulla `<section class="ent-hero">`. NON usare align-items:center ne' padding-top grandi. Contenuto centrato in orizzontale: style sul `gc-wrap gc-hero-in` (grid 1 colonna, max-width 860px).
+- Spazio menu-hero: lo `<span id="main">` in `_includes/home-content.html` DEVE restare alto 0 (style inline con !important), altrimenti `#main{padding-inline}` crea una riga vuota sopra l'hero.
