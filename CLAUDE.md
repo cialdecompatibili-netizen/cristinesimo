@@ -105,3 +105,7 @@ Tutto da Desktop Commander sul PC di Mirco, con Python. Il connettore GitHub non
 - Prezzi e specifiche della demo sono SEGNAPOSTO da confermare con Mirco: nei testi solo cose generiche, niente portate o numeri inventati.
 - Per molti prodotti: lo script e' da generalizzare in `aggiungi_prodotti.py` (input = elenco con nome, categoria, prezzo, testi IT/EN, soggetto foto), proposto a Mirco, non ancora fatto.
 - Idee categorie dal mercato (ricerca 31/10/2026): nodi e schede Meshtastic (Heltec V3/V4, LILYGO T-Beam), ripetitori solari, kit modulari RAK WisBlock, tracker GPS, comunicatori portatili, kit con Raspberry Pi.
+
+
+Hero attaccato al menu (cristinesimo, 01/11/2026)
+- REGOLA: nell'hero home il testo parte SUBITO sotto il menu, senza spazio vuoto tra fine menu e contenuto. Il fondale resta a tutta altezza (min-height 100svh - 80px, regola adattiva invariata in gaming.css): si cambia solo il blocco hero in `_data/blocks_home.json` con `style="align-items:flex-start;padding-top:clamp(1.5rem,5vh,3.5rem)"` sulla `<section class="ent-hero">`. NON usare align-items:center ne' padding-top grandi. Contenuto centrato in orizzontale: style sul `gc-wrap gc-hero-in` (grid 1 colonna, max-width 860px).
