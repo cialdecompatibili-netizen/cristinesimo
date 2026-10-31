@@ -38,5 +38,41 @@
   {
     "nome": "Candele, Incenso e Acqua Santa",
     "slug": "candele-e-incenso"
+  },
+  {
+    "nome": "Affreschi e Riproduzioni d'Arte",
+    "slug": "affreschi-e-riproduzioni"
+  },
+  {
+    "nome": "Battesimo",
+    "slug": "battesimo"
+  },
+  {
+    "nome": "Prima Comunione",
+    "slug": "prima-comunione"
+  },
+  {
+    "nome": "Cresima",
+    "slug": "cresima"
+  },
+  {
+    "nome": "Matrimonio Religioso",
+    "slug": "matrimonio-religioso"
+  },
+  {
+    "nome": "Paramenti e Tessili Liturgici",
+    "slug": "paramenti-e-tessili"
+  },
+  {
+    "nome": "Candele e Lumini per Chiese",
+    "slug": "candele-per-chiese"
+  },
+  {
+    "nome": "Statuine e Accessori Presepe",
+    "slug": "statuine-e-accessori-presepe"
+  },
+  {
+    "nome": "Arredi e Oggetti Liturgici",
+    "slug": "arredi-e-oggetti-liturgici"
   }
 ]
