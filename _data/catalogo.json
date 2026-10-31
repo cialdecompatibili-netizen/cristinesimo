@@ -2,6 +2,12 @@
   "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
+      "nome": "Gioielli Religiosi",
+      "id": "gioielli-religiosi",
+      "icona": "💎",
+      "descrizione": "Medaglie, croci e ciondoli devozionali in acciaio inossidabile e ottone, resistenti e accessibili. Ideali da portare ogni giorno e come regalo."
+    },
+    {
       "nome": "Rosari e Corone",
       "id": "rosari-e-corone",
       "icona": "📿",
@@ -39,6 +45,54 @@
     }
   ],
   "prodotti": [
+    {
+      "tipo": "fisico",
+      "id": "ciondolo-madonna-ottone-anticato",
+      "nome": "Ciondolo Madonna in Ottone Anticato",
+      "categoria": "gioielli-religiosi",
+      "prezzo_centesimi": 890,
+      "descrizione": "Ciondolo con la Vergine Maria in ottone con finitura anticata, per catenina o rosario.",
+      "descrizione_completa": "Materiale e lavorazione\nOttone con finitura anticata, adatto a catenina, rosario o bracciale.\nPerche sceglierla\nAspetto d'epoca a prezzo accessibile.\nPer chi e pensata\nPer chi ama le finiture tradizionali e vuole un pensiero devozionale semplice.",
+      "immagine": "assets/images/prodotti/ciondolo-madonna-ottone-anticato.webp",
+      "icona": "💎",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "croce-acciaio-inox-catenina",
+      "nome": "Croce in Acciaio Inox con Catenina",
+      "categoria": "gioielli-religiosi",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Croce in acciaio inossidabile con catenina, sobria e resistente, adatta a uomo e donna.",
+      "descrizione_completa": "Materiale e lavorazione\nAcciaio inossidabile, finitura lucida, fornita con catenina.\nPerche sceglierla\nLinea essenziale, adatta a ogni giorno e a ogni eta.\nPer chi e pensata\nUn regalo discreto per ogni occasione di fede.",
+      "immagine": "assets/images/prodotti/croce-acciaio-inox-catenina.webp",
+      "icona": "💎",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "medaglia-san-benedetto-acciaio-inox",
+      "nome": "Medaglia San Benedetto in Acciaio Inox",
+      "categoria": "gioielli-religiosi",
+      "prezzo_centesimi": 1090,
+      "descrizione": "Medaglia di San Benedetto in acciaio inossidabile con catenina, simbolo di protezione molto diffuso nella tradizione cattolica.",
+      "descrizione_completa": "Materiale e lavorazione\nAcciaio inossidabile, fornita con catenina.\nPerche sceglierla\nSimbolo di protezione molto amato, resistente e dal prezzo contenuto.\nPer chi e pensata\nPer chi cerca una medaglia da portare ogni giorno o da regalare.",
+      "immagine": "assets/images/prodotti/medaglia-san-benedetto-acciaio-inox.webp",
+      "icona": "💎",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "medaglia-miracolosa-acciaio-inox",
+      "nome": "Medaglia Miracolosa in Acciaio Inox",
+      "categoria": "gioielli-religiosi",
+      "prezzo_centesimi": 990,
+      "descrizione": "Medaglia Miracolosa ovale in acciaio inossidabile, con catenina. Un classico della devozione mariana, resistente e adatto all'uso quotidiano.",
+      "descrizione_completa": "Materiale e lavorazione\nAcciaio inossidabile, non si ossida e non cambia colore con l'uso quotidiano. Fornita con catenina.\nPerche sceglierla\nDesign classico della Medaglia Miracolosa, prezzo accessibile, facile da curare.\nPer chi e pensata\nUn regalo semplice per Battesimo, Comunione o Cresima, o un pensiero per se.",
+      "immagine": "assets/images/prodotti/medaglia-miracolosa-acciaio-inox.webp",
+      "icona": "💎",
+      "visibile": true
+    },
     {
       "tipo": "fisico",
       "id": "corona-missionaria-corda",
