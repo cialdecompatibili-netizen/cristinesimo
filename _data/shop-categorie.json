@@ -26,5 +26,17 @@
   {
     "nome": "Download Devozionali",
     "slug": "download-devozionali"
+  },
+  {
+    "nome": "Arte Sacra",
+    "slug": "arte-sacra"
+  },
+  {
+    "nome": "Presepi e Natale",
+    "slug": "presepi-e-natale"
+  },
+  {
+    "nome": "Candele, Incenso e Acqua Santa",
+    "slug": "candele-e-incenso"
   }
 ]

@@ -42,6 +42,24 @@
       "id": "download-devozionali",
       "icona": "📥",
       "descrizione": "Preghiere, novene e immagini sacre in formato digitale, pronte da scaricare e stampare per la preghiera personale o da condividere con la propria comunita."
+    },
+    {
+      "nome": "Arte Sacra",
+      "id": "arte-sacra",
+      "icona": "🎨",
+      "descrizione": "Quadri, statue, bassorilievi e crocifissi per la casa, la chiesa e il regalo: i soggetti piu amati della devozione cristiana e francescana."
+    },
+    {
+      "nome": "Presepi e Natale",
+      "id": "presepi-e-natale",
+      "icona": "🎄",
+      "descrizione": "Presepi e Nativita in legno d'ulivo e resina, per preparare il Natale in famiglia, in parrocchia e a scuola."
+    },
+    {
+      "nome": "Candele, Incenso e Acqua Santa",
+      "id": "candele-e-incenso",
+      "icona": "🕯️",
+      "descrizione": "Candele votive, incenso e acquasantiere per la preghiera in casa e per le piccole chiese."
     }
   ],
   "prodotti": [
@@ -331,6 +349,234 @@
       "descrizione_completa": "Novena in formato PDF, pronta da scaricare e stampare per la preghiera personale.",
       "immagine": "assets/images/prodotti/novena-pdf-stampabile.webp",
       "icona": "📥",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "quadro-sacro-cuore-tela",
+      "nome": "Quadro del Sacro Cuore su Tela",
+      "categoria": "arte-sacra",
+      "prezzo_centesimi": 3990,
+      "descrizione": "Quadro devozionale del Sacro Cuore di Gesu stampato su tela, pronto da appendere.",
+      "descrizione_completa": "Materiale e lavorazione\nStampa su tela, formato circa 40x50 cm.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/quadro-sacro-cuore-tela.webp",
+      "icona": "🎨",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "stampa-ultima-cena-legno",
+      "nome": "Ultima Cena su Tavola di Legno",
+      "categoria": "arte-sacra",
+      "prezzo_centesimi": 3490,
+      "descrizione": "Riproduzione dell'Ultima Cena su tavola di legno, per sala da pranzo e cucina.",
+      "descrizione_completa": "Materiale e lavorazione\nStampa su legno.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/stampa-ultima-cena-legno.webp",
+      "icona": "🎨",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "statua-san-francesco-resina",
+      "nome": "Statua di San Francesco in Resina",
+      "categoria": "arte-sacra",
+      "prezzo_centesimi": 2490,
+      "descrizione": "Statuetta di San Francesco d'Assisi in resina dipinta, circa 20 cm.",
+      "descrizione_completa": "Materiale e lavorazione\nResina dipinta a mano.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/statua-san-francesco-resina.webp",
+      "icona": "🎨",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "statua-padre-pio-resina",
+      "nome": "Statua di Padre Pio in Resina",
+      "categoria": "arte-sacra",
+      "prezzo_centesimi": 3490,
+      "descrizione": "Statua di San Pio da Pietrelcina in resina dipinta, circa 30 cm.",
+      "descrizione_completa": "Materiale e lavorazione\nResina dipinta a mano.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/statua-padre-pio-resina.webp",
+      "icona": "🎨",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "statua-sant-antonio-resina",
+      "nome": "Statua di Sant'Antonio con Bambino",
+      "categoria": "arte-sacra",
+      "prezzo_centesimi": 2290,
+      "descrizione": "Sant'Antonio da Padova con il Bambino Gesu, in resina dipinta, circa 20 cm.",
+      "descrizione_completa": "Materiale e lavorazione\nResina dipinta a mano.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/statua-sant-antonio-resina.webp",
+      "icona": "🎨",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "statua-santa-rita-resina",
+      "nome": "Statua di Santa Rita da Cascia",
+      "categoria": "arte-sacra",
+      "prezzo_centesimi": 2490,
+      "descrizione": "Statua di Santa Rita in resina dipinta, circa 20 cm, molto richiesta come regalo.",
+      "descrizione_completa": "Materiale e lavorazione\nResina dipinta a mano.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/statua-santa-rita-resina.webp",
+      "icona": "🎨",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "crocifisso-san-damiano-legno",
+      "nome": "Crocifisso di San Damiano su Legno",
+      "categoria": "arte-sacra",
+      "prezzo_centesimi": 2990,
+      "descrizione": "Riproduzione del crocifisso di San Damiano, quello che parlo a San Francesco, su legno.",
+      "descrizione_completa": "Materiale e lavorazione\nStampa su tavola di legno.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/crocifisso-san-damiano-legno.webp",
+      "icona": "🎨",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "croce-tau-ulivo",
+      "nome": "Croce Tau in Legno d'Ulivo",
+      "categoria": "arte-sacra",
+      "prezzo_centesimi": 1290,
+      "descrizione": "La croce Tau, simbolo francescano, in legno d'ulivo, da appendere o portare.",
+      "descrizione_completa": "Materiale e lavorazione\nLegno d'ulivo.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/croce-tau-ulivo.webp",
+      "icona": "🎨",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "bassorilievo-madonna-bambino",
+      "nome": "Bassorilievo Madonna con Bambino",
+      "categoria": "arte-sacra",
+      "prezzo_centesimi": 2790,
+      "descrizione": "Bassorilievo della Madonna con il Bambino in resina, per la parete della camera.",
+      "descrizione_completa": "Materiale e lavorazione\nResina con finitura anticata.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/bassorilievo-madonna-bambino.webp",
+      "icona": "🎨",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "presepe-ulivo-nativita",
+      "nome": "Presepe in Legno d'Ulivo",
+      "categoria": "presepi-e-natale",
+      "prezzo_centesimi": 3990,
+      "descrizione": "Natività in legno d'ulivo con Sacra Famiglia, da tavolo, ispirata ai presepi di Betlemme.",
+      "descrizione_completa": "Materiale e lavorazione\nLegno d'ulivo.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/presepe-ulivo-nativita.webp",
+      "icona": "🎄",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "nativita-7-soggetti-resina",
+      "nome": "Natività 7 Soggetti in Resina",
+      "categoria": "presepi-e-natale",
+      "prezzo_centesimi": 2990,
+      "descrizione": "Set di sette personaggi del presepe in resina dipinta, circa 12 cm.",
+      "descrizione_completa": "Materiale e lavorazione\nResina dipinta a mano.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/nativita-7-soggetti-resina.webp",
+      "icona": "🎄",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "capanna-presepe-legno",
+      "nome": "Capanna per Presepe in Legno",
+      "categoria": "presepi-e-natale",
+      "prezzo_centesimi": 2490,
+      "descrizione": "Capanna in legno per presepe, pronta da allestire e abbellire con le proprie statuine.",
+      "descrizione_completa": "Materiale e lavorazione\nLegno naturale.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/capanna-presepe-legno.webp",
+      "icona": "🎄",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "candele-votive-immagine-sacra",
+      "nome": "Set 6 Candele Votive con Immagine Sacra",
+      "categoria": "candele-e-incenso",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Sei candele votive con immagine sacra, in vetro, per la preghiera in casa.",
+      "descrizione_completa": "Materiale e lavorazione\nCera in contenitore di vetro.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/candele-votive-immagine-sacra.webp",
+      "icona": "🕯️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "incenso-grani-chiesa",
+      "nome": "Incenso in Grani per Chiesa 100 g",
+      "categoria": "candele-e-incenso",
+      "prezzo_centesimi": 990,
+      "descrizione": "Incenso in grani dal profumo tradizionale, per turibolo o bruciatore.",
+      "descrizione_completa": "Materiale e lavorazione\nResina naturale.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/incenso-grani-chiesa.webp",
+      "icona": "🕯️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "set-incenso-turibolo",
+      "nome": "Set Incenso con Turibolo da Casa",
+      "categoria": "candele-e-incenso",
+      "prezzo_centesimi": 2490,
+      "descrizione": "Piccolo turibolo con incenso e carboncini per i momenti di preghiera in famiglia.",
+      "descrizione_completa": "Materiale e lavorazione\nOttone con incenso e carboncini.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/set-incenso-turibolo.webp",
+      "icona": "🕯️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "boccetta-acqua-santa-madonna",
+      "nome": "Boccetta Acqua Santa a Forma di Madonna",
+      "categoria": "candele-e-incenso",
+      "prezzo_centesimi": 690,
+      "descrizione": "Boccetta a forma di Madonna per conservare l'acqua benedetta, si regala a pellegrini e ospiti.",
+      "descrizione_completa": "Materiale e lavorazione\nPlastica rigida, senza acqua.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/boccetta-acqua-santa-madonna.webp",
+      "icona": "🕯️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "acquasantiera-parete-ceramica",
+      "nome": "Acquasantiera da Parete in Ceramica",
+      "categoria": "candele-e-incenso",
+      "prezzo_centesimi": 1690,
+      "descrizione": "Acquasantiera da parete in ceramica per l'ingresso di casa o della camera.",
+      "descrizione_completa": "Materiale e lavorazione\nCeramica.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/acquasantiera-parete-ceramica.webp",
+      "icona": "🕯️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "cingolo-francescano-tre-nodi",
+      "nome": "Cingolo Francescano con Tre Nodi",
+      "categoria": "rosari-e-corone",
+      "prezzo_centesimi": 1190,
+      "descrizione": "Cordone francescano a tre nodi, simbolo di poverta, castita e obbedienza.",
+      "descrizione_completa": "Materiale e lavorazione\nCordone di cotone.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/cingolo-francescano-tre-nodi.webp",
+      "icona": "📿",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "santini-preghiera-set-50",
+      "nome": "Set 50 Santini con Preghiera",
+      "categoria": "libri-e-preghiere",
+      "prezzo_centesimi": 990,
+      "descrizione": "Cinquanta santini assortiti con preghiera sul retro, perfetti per parrocchie e gruppi.",
+      "descrizione_completa": "Materiale e lavorazione\nCartoncino stampato.\nPer chi e pensato\nPer la casa, la parrocchia o come regalo per Battesimo, Comunione, Cresima e Natale.",
+      "immagine": "assets/images/prodotti/santini-preghiera-set-50.webp",
+      "icona": "📖",
       "visibile": true
     }
   ]
