@@ -2,12 +2,6 @@
   "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
-      "nome": "Gioielli Religiosi",
-      "id": "gioielli-religiosi",
-      "icona": "💎",
-      "descrizione": "Medaglie, ciondoli e rosari-bracciale in oro e argento, realizzati da artigiani orafi italiani. Pezzi pensati per accompagnare la fede ogni giorno, ideali anche come regalo per occasioni importanti."
-    },
-    {
       "nome": "Rosari e Corone",
       "id": "rosari-e-corone",
       "icona": "📿",
@@ -45,42 +39,6 @@
     }
   ],
   "prodotti": [
-    {
-      "tipo": "fisico",
-      "id": "medaglia-miracolosa-argento",
-      "nome": "Medaglia Miracolosa in Argento 925",
-      "categoria": "gioielli-religiosi",
-      "prezzo_centesimi": 4200,
-      "descrizione": "La Medaglia Miracolosa in argento 925, ovale, raffigura la Vergine Maria con le braccia aperte e l'iscrizione “O Maria concepita senza peccato, prega per noi”. Un classico della devozione mariana, pensato per essere portato ogni giorno o regalato in un'occasione importante.",
-      "descrizione_completa": "Materiale e lavorazione\nArgento 925 (fino sterling), fusione e finitura satinata realizzate a mano da artigiani orafi italiani. Misura 18x24 mm, peso circa 3 grammi. Venduta senza catenina, completa di astuccio.\nPerché sceglierla\nDesign fedele all'originale del 1830, riconosciuto in tutto il mondo cattolico\nArgento 925 certificato, non si annerisce facilmente con la giusta cura\nRetro liscio, personalizzabile con incisione su richiesta\nPer chi è pensata\nUn regalo classico per Battesimo, Prima Comunione o Cresima, ma anche un pensiero per sé o per chi cerca protezione e conforto nella fede quotidiana.",
-      "immagine": "assets/images/prodotti/medaglia-miracolosa-argento.webp",
-      "icona": "💎",
-      "visibile": true
-    },
-    {
-      "tipo": "fisico",
-      "id": "medaglia-miracolosa-oro-18kt",
-      "nome": "Medaglia Miracolosa in Oro Giallo 18kt",
-      "categoria": "gioielli-religiosi",
-      "prezzo_centesimi": 14500,
-      "descrizione": "La Medaglia Miracolosa in oro giallo 18kt (750 millesimi), realizzata da orafi italiani, unisce la tradizione della devozione mariana alla qualità di un vero gioiello. Punzonata con il titolo dell'oro, arriva in elegante astuccio regalo.",
-      "descrizione_completa": "Materiale e lavorazione\nOro giallo 18kt (750/1000), peso circa 2 grammi, misura 14x20 mm, finitura lucida e satinata. Punzonatura del titolo e marchio dell'orefice incisi sul retro. Venduta senza catena, completa di certificato di autenticità e scatola regalo.\nPerché sceglierla\nOro 18kt garantito e punzonato, valore che dura nel tempo\nLavorazione artigianale italiana, dettagli rifiniti a mano\nFormato compatto, adatto anche a un uso quotidiano discreto\nPer chi è pensata\nIl regalo più importante per un Battesimo, una Comunione o un anniversario di fede: un gioiello che si tramanda, non solo un oggetto devozionale.",
-      "immagine": "assets/images/prodotti/medaglia-miracolosa-oro-18kt.webp",
-      "icona": "💎",
-      "visibile": true
-    },
-    {
-      "tipo": "fisico",
-      "id": "medaglia-san-benedetto-argento",
-      "nome": "Medaglia di San Benedetto in Argento 925",
-      "categoria": "gioielli-religiosi",
-      "prezzo_centesimi": 5200,
-      "descrizione": "La Medaglia di San Benedetto in argento 925 riporta sul dritto l'immagine del Santo con la croce e la Regola di San Benedetto, sul retro la croce con le iniziali della formula “Vade retro Satana”. Una delle medaglie sacramentali più antiche e diffuse della tradizione cristiana.",
-      "descrizione_completa": "Materiale e lavorazione\nArgento 925, forma a croce o tonda (secondo disponibilità), misura circa 30 mm, peso circa 4 grammi. Doppia faccia lavorata con dettagli in rilievo, finitura satinata. Venduta senza catenina, con astuccio incluso.\nPerché sceglierla\nSimbolo tra i più antichi della devozione cristiana, in uso da secoli\nArgento 925, lavorazione dettagliata su entrambi i lati\nAdatta anche come inserto per rosari o scapolari\nPer chi è pensata\nPer chi cerca un oggetto di devozione con una storia profonda, o per chi desidera un regalo di protezione spirituale per sé o per una persona cara.",
-      "immagine": "assets/images/prodotti/medaglia-san-benedetto-argento.webp",
-      "icona": "💎",
-      "visibile": true
-    },
     {
       "tipo": "fisico",
       "id": "corona-missionaria-corda",
