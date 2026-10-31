@@ -1,6 +1,30 @@
 [
   {
-    "nome": "esempio",
-    "slug": "esempio"
+    "nome": "Gioielli Religiosi",
+    "slug": "gioielli-religiosi"
+  },
+  {
+    "nome": "Rosari e Corone",
+    "slug": "rosari-e-corone"
+  },
+  {
+    "nome": "Icone e Quadretti Sacri",
+    "slug": "icone-e-quadretti"
+  },
+  {
+    "nome": "Statue e Crocifissi",
+    "slug": "statue-e-crocifissi"
+  },
+  {
+    "nome": "Regali per Ricorrenze",
+    "slug": "regali-ricorrenze"
+  },
+  {
+    "nome": "Libri e Preghiere",
+    "slug": "libri-e-preghiere"
+  },
+  {
+    "nome": "Download Devozionali",
+    "slug": "download-devozionali"
   }
 ]

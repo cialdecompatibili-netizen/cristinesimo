@@ -2,35 +2,228 @@
   "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
-      "nome": "Esempio",
-      "id": "esempio",
-      "icona": "🛍️",
-      "tr": {
-        "en": {
-          "nome": "Example"
-        }
-      }
+      "nome": "Gioielli Religiosi",
+      "id": "gioielli-religiosi",
+      "icona": "💎",
+      "descrizione": "Medaglie, ciondoli e rosari-bracciale in oro e argento, realizzati da artigiani orafi italiani. Pezzi pensati per accompagnare la fede ogni giorno, ideali anche come regalo per occasioni importanti."
+    },
+    {
+      "nome": "Rosari e Corone",
+      "id": "rosari-e-corone",
+      "icona": "📿",
+      "descrizione": "Rosari e corone del Rosario in legno, vetro e materiali naturali, per la preghiera quotidiana e per accompagnare i momenti piu importanti della vita di fede."
+    },
+    {
+      "nome": "Icone e Quadretti Sacri",
+      "id": "icone-e-quadretti",
+      "icona": "🖼️",
+      "descrizione": "Icone sacre e quadretti devozionali ispirati alla grande tradizione dell'arte cristiana, dalle icone bizantine ai soggetti mariani piu amati, per la casa e la preghiera personale."
+    },
+    {
+      "nome": "Statue e Crocifissi",
+      "id": "statue-e-crocifissi",
+      "icona": "✝️",
+      "descrizione": "Statue sacre e crocifissi per la casa, la preghiera e il regalo, realizzati con cura artigianale nei soggetti piu amati della devozione cristiana."
+    },
+    {
+      "nome": "Regali per Ricorrenze",
+      "id": "regali-ricorrenze",
+      "icona": "🎁",
+      "descrizione": "Idee regalo pensate per Battesimo, Prima Comunione e Cresima: bomboniere, medagliette e piccoli pensieri per celebrare i momenti piu importanti del cammino di fede."
+    },
+    {
+      "nome": "Libri e Preghiere",
+      "id": "libri-e-preghiere",
+      "icona": "📖",
+      "descrizione": "Libri di preghiera, raccolte di novene e testi di spiritualita per accompagnare la vita di fede quotidiana, in edizioni curate e accessibili."
+    },
+    {
+      "nome": "Download Devozionali",
+      "id": "download-devozionali",
+      "icona": "📥",
+      "descrizione": "Preghiere, novene e immagini sacre in formato digitale, pronte da scaricare e stampare per la preghiera personale o da condividere con la propria comunita."
     }
   ],
   "prodotti": [
     {
+      "tipo": "fisico",
+      "id": "medaglia-miracolosa-argento",
+      "nome": "Medaglia Miracolosa in Argento 925",
+      "categoria": "gioielli-religiosi",
+      "prezzo_centesimi": 4200,
+      "descrizione": "La Medaglia Miracolosa in argento 925, ovale, raffigura la Vergine Maria con le braccia aperte e l'iscrizione “O Maria concepita senza peccato, prega per noi”. Un classico della devozione mariana, pensato per essere portato ogni giorno o regalato in un'occasione importante.",
+      "descrizione_completa": "Materiale e lavorazione\nArgento 925 (fino sterling), fusione e finitura satinata realizzate a mano da artigiani orafi italiani. Misura 18x24 mm, peso circa 3 grammi. Venduta senza catenina, completa di astuccio.\nPerché sceglierla\nDesign fedele all'originale del 1830, riconosciuto in tutto il mondo cattolico\nArgento 925 certificato, non si annerisce facilmente con la giusta cura\nRetro liscio, personalizzabile con incisione su richiesta\nPer chi è pensata\nUn regalo classico per Battesimo, Prima Comunione o Cresima, ma anche un pensiero per sé o per chi cerca protezione e conforto nella fede quotidiana.",
+      "immagine": "assets/images/prodotti/medaglia-miracolosa-argento.webp",
+      "icona": "💎",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "medaglia-miracolosa-oro-18kt",
+      "nome": "Medaglia Miracolosa in Oro Giallo 18kt",
+      "categoria": "gioielli-religiosi",
+      "prezzo_centesimi": 14500,
+      "descrizione": "La Medaglia Miracolosa in oro giallo 18kt (750 millesimi), realizzata da orafi italiani, unisce la tradizione della devozione mariana alla qualità di un vero gioiello. Punzonata con il titolo dell'oro, arriva in elegante astuccio regalo.",
+      "descrizione_completa": "Materiale e lavorazione\nOro giallo 18kt (750/1000), peso circa 2 grammi, misura 14x20 mm, finitura lucida e satinata. Punzonatura del titolo e marchio dell'orefice incisi sul retro. Venduta senza catena, completa di certificato di autenticità e scatola regalo.\nPerché sceglierla\nOro 18kt garantito e punzonato, valore che dura nel tempo\nLavorazione artigianale italiana, dettagli rifiniti a mano\nFormato compatto, adatto anche a un uso quotidiano discreto\nPer chi è pensata\nIl regalo più importante per un Battesimo, una Comunione o un anniversario di fede: un gioiello che si tramanda, non solo un oggetto devozionale.",
+      "immagine": "assets/images/prodotti/medaglia-miracolosa-oro-18kt.webp",
+      "icona": "💎",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "medaglia-san-benedetto-argento",
+      "nome": "Medaglia di San Benedetto in Argento 925",
+      "categoria": "gioielli-religiosi",
+      "prezzo_centesimi": 5200,
+      "descrizione": "La Medaglia di San Benedetto in argento 925 riporta sul dritto l'immagine del Santo con la croce e la Regola di San Benedetto, sul retro la croce con le iniziali della formula “Vade retro Satana”. Una delle medaglie sacramentali più antiche e diffuse della tradizione cristiana.",
+      "descrizione_completa": "Materiale e lavorazione\nArgento 925, forma a croce o tonda (secondo disponibilità), misura circa 30 mm, peso circa 4 grammi. Doppia faccia lavorata con dettagli in rilievo, finitura satinata. Venduta senza catenina, con astuccio incluso.\nPerché sceglierla\nSimbolo tra i più antichi della devozione cristiana, in uso da secoli\nArgento 925, lavorazione dettagliata su entrambi i lati\nAdatta anche come inserto per rosari o scapolari\nPer chi è pensata\nPer chi cerca un oggetto di devozione con una storia profonda, o per chi desidera un regalo di protezione spirituale per sé o per una persona cara.",
+      "immagine": "assets/images/prodotti/medaglia-san-benedetto-argento.webp",
+      "icona": "💎",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "corona-missionaria-corda",
+      "nome": "Corona Missionaria in Corda",
+      "categoria": "rosari-e-corone",
+      "prezzo_centesimi": 1500,
+      "descrizione": "La Corona Missionaria è un rosario in corda annodata, senza grani rigidi: leggera, silenziosa e quasi indistruttibile. Il modello scelto da missionari e viaggiatori per una corona sempre pronta all'uso, in tasca o in borsa.",
+      "descrizione_completa": "Materiale e lavorazione\nCorda in cotone o nylon resistente, annodata a formare i grani, con piccolo crocifisso finale. Nessuna parte rigida: si piega, non si rompe, occupa pochissimo spazio.\nPerché sceglierla\nEstremamente leggera e silenziosa, ideale da portare in viaggio\nRobustezza superiore ai modelli con grani in legno o vetro\nPrezzo d'ingresso alla categoria, perfetta per iniziare o per donare in numero\nPer chi è pensata\nPer chi viaggia spesso, per i gruppi di preghiera che regalano corone in occasione di ritiri e pellegrinaggi, o per chi cerca semplicemente un rosario pratico da tenere sempre a portata di mano.",
+      "immagine": "assets/images/prodotti/corona-missionaria-corda.webp",
+      "icona": "📿",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "rosario-legno-ulivo-terra-santa",
+      "nome": "Rosario in Legno d'Ulivo di Terra Santa",
+      "categoria": "rosari-e-corone",
+      "prezzo_centesimi": 1800,
+      "descrizione": "Rosario in legno d'ulivo, fatto a mano da artigiani in Terra Santa. Grani legati con corda resistente e crocifisso in legno con il timbro tradizionale Jerusalem. Un rosario semplice e autentico, pensato per essere usato ogni giorno.",
+      "descrizione_completa": "Materiale e lavorazione\nGrani in legno d'ulivo (10 mm circa), rilegatura in corda naturale, crocifisso in legno inciso a mano con il timbro Jerusalem. Lunghezza totale circa 45 cm. Ogni pezzo è lavorato singolarmente: piccole variazioni di colore e venatura sono normali e fanno parte dell'autenticità artigianale.\nPerché sceglierlo\nMateriale naturale, leggero e resistente all'uso quotidiano\nLavorazione manuale in Terra Santa, non industriale\nPrezzo accessibile per iniziare o regalare la pratica del Rosario\nPer chi è pensato\nPerfetto come primo rosario, come regalo semplice per un pellegrinaggio o una comunione, o per chi cerca un rosario robusto da portare sempre con sé.",
+      "immagine": "assets/images/prodotti/rosario-legno-ulivo-terra-santa.webp",
+      "icona": "📿",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "rosario-vetro-boemia",
+      "nome": "Rosario in Vetro di Boemia",
+      "categoria": "rosari-e-corone",
+      "prezzo_centesimi": 3800,
+      "descrizione": "Rosario con grani sfaccettati in vetro di Boemia, montati su struttura metallica anticata, con crocifisso classico e medaglia centrale. Un rosario dall'aspetto prezioso, pensato sia per la preghiera personale sia come regalo importante.",
+      "descrizione_completa": "Materiale e lavorazione\nGrani in vetro di Boemia sfaccettato (8 mm), montatura in metallo anticato, crocifisso e medaglia centrale rifiniti a mano. Lunghezza totale circa 50 cm, fornito in astuccio regalo.\nPerché sceglierlo\nRiflessi luminosi tipici del vetro di Boemia, lavorazione curata nei dettagli\nStruttura metallica robusta, pensata per durare negli anni\nAspetto elegante, adatto anche come regalo importante\nPer chi è pensato\nUn'idea regalo raffinata per una Cresima, un anniversario di matrimonio religioso o per chi desidera un rosario dall'aspetto più prezioso rispetto ai modelli in legno.",
+      "immagine": "assets/images/prodotti/rosario-vetro-boemia.webp",
+      "icona": "📿",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "icona-cristo-pantocratore",
+      "nome": "Icona di Cristo Pantocratore",
+      "categoria": "icone-e-quadretti",
+      "prezzo_centesimi": 6500,
+      "descrizione": "L'icona di Cristo Pantocratore, “Signore dell'universo”, è uno dei soggetti più antichi e venerati dell'arte cristiana. Dipinta a mano su tavola di legno, richiama nello stile le celebri icone del Monastero di Santa Caterina sul Sinai.",
+      "descrizione_completa": "Materiale e lavorazione\nTavola in legno massello, dipinta a mano, dimensioni 24x30 cm circa, fondo dorato. Gancio sul retro per l'appensione. Certificato di autenticità incluso.\nPerché sceglierla\nUno dei soggetti più rappresentati nella storia dell'arte cristiana\nDipinta a mano, non stampata\nAdatta come punto focale di preghiera in casa o in ufficio\nPer chi è pensata\nPer chi cerca un'immagine sacra di forte impatto simbolico, o per chi desidera arricchire un angolo di preghiera personale.",
+      "immagine": "assets/images/prodotti/icona-cristo-pantocratore.webp",
+      "icona": "🖼️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "icona-madonna-odigitria",
+      "nome": "Icona Madonna Odigitria",
+      "categoria": "icone-e-quadretti",
+      "prezzo_centesimi": 7000,
+      "descrizione": "L'icona della Madonna Odigitria, “colei che indica la via”, raffigura la Vergine che regge il Bambino indicandolo come fonte di salvezza. Dipinta a mano su legno con fondo in foglia oro, secondo la tradizione iconografica bizantina.",
+      "descrizione_completa": "Materiale e lavorazione\nTavola in legno massello, dipinta a mano con tecnica a tempera e fondo in foglia oro, dimensioni 24x30 cm circa. Gancio sul retro per l'appensione a parete. Certificato di autenticità incluso.\nPerché sceglierla\nIconografia fedele alla tradizione bizantina, tra le più diffuse nel mondo cristiano\nLavorazione artigianale, non una stampa\nAdatta sia ad ambienti domestici sia a spazi di preghiera comunitaria\nPer chi è pensata\nPer chi desidera arredare casa con un'opera di arte sacra autentica, o per un regalo importante legato alla devozione mariana.",
+      "immagine": "assets/images/prodotti/icona-madonna-odigitria.webp",
+      "icona": "🖼️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "quadretto-vergine-tenerezza",
+      "nome": "Quadretto Vergine della Tenerezza",
+      "categoria": "icone-e-quadretti",
+      "prezzo_centesimi": 2600,
+      "descrizione": "Il quadretto della Vergine della Tenerezza raffigura Maria con il volto accostato a quello del Bambino, uno dei soggetti più amati dell'iconografia mariana. Formato compatto, pensato per ogni ambiente della casa.",
+      "descrizione_completa": "Materiale e lavorazione\nSupporto in legno o MDF rivestito, dimensioni 13x18 cm circa, stampa ad alta definizione con finitura opaca. Predisposto per appoggio da tavolo o appensione a parete.\nPerché sceglierlo\nFormato compatto, adatto anche a spazi piccoli come comodini o scrivanie\nPrezzo accessibile, ideale come primo regalo devozionale\nSoggetto tra i più amati della tradizione mariana\nPer chi è pensato\nPerfetto come piccolo pensiero per una comunione, un compleanno o semplicemente per iniziare ad arredare con un'immagine sacra senza un grande investimento.",
+      "immagine": "assets/images/prodotti/quadretto-vergine-tenerezza.webp",
+      "icona": "🖼️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "crocifisso-parete-legno-30cm",
+      "nome": "Crocifisso da Parete in Legno 30cm",
+      "categoria": "statue-e-crocifissi",
+      "prezzo_centesimi": 3200,
+      "descrizione": "Crocifisso da parete con croce in legno e corpo di Cristo in resina dipinta a mano, altezza 30 cm. Un classico dell'arredo sacro, adatto a ogni ambiente della casa o a spazi comunitari.",
+      "descrizione_completa": "Materiale e lavorazione\nCroce in legno naturale, corpo di Cristo in resina dipinta a mano con dettagli realistici, altezza totale 30 cm. Predisposto per l'appensione a parete, gancio incluso.\nPerché sceglierlo\nFormato compatto ma di forte impatto visivo, adatto a ogni stanza\nLavorazione dei dettagli del corpo curata a mano\nPrezzo accessibile per un oggetto destinato a durare nel tempo\nPer chi è pensato\nPer chi vuole un crocifisso classico da ingresso, camera o soggiorno, o come regalo per una nuova casa, un matrimonio religioso o una cresima.",
+      "immagine": "assets/images/prodotti/crocifisso-parete-legno-30cm.webp",
+      "icona": "✝️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "statua-madonna-fatima-legno",
+      "nome": "Statua Madonna di Fatima in Legno Dipinto",
+      "categoria": "statue-e-crocifissi",
+      "prezzo_centesimi": 11000,
+      "descrizione": "Statua della Madonna di Fatima scolpita in legno di tiglio e dipinta a mano con colori ad olio dagli artigiani della Val Gardena, secondo la secolare tradizione tirolese della scultura sacra. Un pezzo destinato a durare generazioni.",
+      "descrizione_completa": "Materiale e lavorazione\nLegno di tiglio scolpito a mano, dipinto con colori ad olio, venatura del legno visibile a vista, altezza circa 40 cm. Certificazione di qualità e origine inclusa.\nPerché sceglierla\nScultura artigianale, non uno stampo in serie\nMateriale e tecnica della tradizione tirolese della Val Gardena, riconosciuta a livello internazionale\nPezzo destinato a mantenere valore ed essere tramandato\nPer chi è pensata\nPer chi cerca un'opera d'arte sacra da collezione, per una cappella privata, o per il regalo più importante legato alla devozione a Fatima.",
+      "immagine": "assets/images/prodotti/statua-madonna-fatima-legno.webp",
+      "icona": "✝️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "statua-madonna-miracolosa-resina",
+      "nome": "Statua Madonna Miracolosa in Resina",
+      "categoria": "statue-e-crocifissi",
+      "prezzo_centesimi": 4500,
+      "descrizione": "Statua della Madonna Miracolosa in resina di alta qualità, dipinta a mano nella posa tradizionale con le braccia aperte. Altezza 40 cm, superficie liscia e finitura delicata, pensata per durare nel tempo.",
+      "descrizione_completa": "Materiale e lavorazione\nResina di alta qualità, dipinta a mano con colori tenui e realistici, altezza 40 cm, base stabile per l'appoggio. Resistente e adatta sia a interni sia a spazi coperti all'esterno.\nPerché sceglierla\nDettagli fini grazie alla lavorazione in resina, superficie omogenea\nFormato equilibrato: visibile ma adatto anche ad ambienti piccoli\nAdatta sia alla casa sia a piccoli spazi di preghiera comunitaria\nPer chi è pensata\nPer chi desidera una presenza mariana tangibile in casa, o per un regalo di battesimo, comunione o compleanno con un forte significato spirituale.",
+      "immagine": "assets/images/prodotti/statua-madonna-miracolosa-resina.webp",
+      "icona": "✝️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "ricordino-comunione-medaglietta",
+      "nome": "Ricordino Comunione con Medaglietta",
+      "categoria": "regali-ricorrenze",
+      "prezzo_centesimi": 1200,
+      "descrizione": "Ricordino per Prima Comunione con medaglietta devozionale, in confezione regalo.",
+      "descrizione_completa": "Ricordino per Prima Comunione con medaglietta devozionale, in confezione regalo.",
+      "immagine": "assets/images/prodotti/ricordino-comunione-medaglietta.webp",
+      "icona": "🎁",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "raccolta-novene-preghiera",
+      "nome": "Raccolta di Novene e Preghiere",
+      "categoria": "libri-e-preghiere",
+      "prezzo_centesimi": 1400,
+      "descrizione": "Libretto con le novene e le preghiere piu amate, in edizione curata e tascabile.",
+      "descrizione_completa": "Libretto con le novene e le preghiere piu amate, in edizione curata e tascabile.",
+      "immagine": "assets/images/prodotti/raccolta-novene-preghiera.webp",
+      "icona": "📖",
+      "visibile": true
+    },
+    {
       "tipo": "digitale",
-      "id": "prodotto-esempio",
-      "nome": "Prodotto di esempio",
-      "categoria": "esempio",
-      "prezzo_centesimi": 1000,
-      "descrizione": "Descrizione breve del prodotto di esempio.",
-      "descrizione_completa": "Descrizione completa del prodotto.\nOgni riga diventa un paragrafo.",
-      "immagine": "",
-      "icona": "🛍️",
-      "visibile": true,
-      "tr": {
-        "en": {
-          "nome": "Example product",
-          "descrizione": "Short description of the example product.",
-          "descrizione_completa": "Full description of the product.\nEach line becomes a paragraph."
-        }
-      }
+      "id": "novena-pdf-stampabile",
+      "nome": "Novena in PDF Stampabile",
+      "categoria": "download-devozionali",
+      "prezzo_centesimi": 500,
+      "descrizione": "Novena in formato PDF, pronta da scaricare e stampare per la preghiera personale.",
+      "descrizione_completa": "Novena in formato PDF, pronta da scaricare e stampare per la preghiera personale.",
+      "immagine": "assets/images/prodotti/novena-pdf-stampabile.webp",
+      "icona": "📥",
+      "visibile": true
     }
   ]
 }
