@@ -3,7 +3,7 @@
     "id": "hero",
     "nome": "Hero",
     "enabled": true,
-    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\"><div><p class=\"gc-eyebrow\">Fede &middot; Devozione &middot; Tradizione</p><h1 class=\"gc-h1\">Oggetti e parole che <em>accompagnano la fede.</em></h1><p class=\"gc-lead\">Rosari, crocifissi, icone e articoli sacri scelti con cura, insieme a ebook e preghiere digitali per la vita spirituale di ogni giorno.</p><div class=\"gc-act\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/negozio/\">Scopri il negozio</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/blog/\">Leggi il blog</a></div></div></div></section></div>"
+    "html": "<div class=\"gc\"><section class=\"ent-hero\"><div class=\"gc-wrap gc-hero-in\" style=\"grid-template-columns:1fr;text-align:center;max-width:860px\"><div><p class=\"gc-eyebrow\">Fede &middot; Devozione &middot; Tradizione</p><h1 class=\"gc-h1\">Oggetti e parole che <em>accompagnano la fede.</em></h1><p class=\"gc-lead\" style=\"margin-left:auto;margin-right:auto\">Rosari, crocifissi, icone e articoli sacri scelti con cura, insieme a ebook e preghiere digitali per la vita spirituale di ogni giorno.</p><div class=\"gc-act\" style=\"justify-content:center\"><a class=\"gc-btn gc-btn-a\" href=\"__BASEURL__/negozio/\">Scopri il negozio</a><a class=\"gc-btn gc-btn-o\" href=\"__BASEURL__/blog/\">Leggi il blog</a></div></div></div></section></div>"
   },
   {
     "id": "contesto",
