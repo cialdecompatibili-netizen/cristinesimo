@@ -206,3 +206,5 @@ Prossima sessione:
 
 ## 13. Stato 01/11/2026
 Shop: 19 categorie, 111 prodotti (commit e4e8907). Aggiunti 16 prodotti da sezione 12 con foto Gemini (img.py). Script generico: automation/aggiungi_prodotti.py (cambia solo la lista P). Foto candele altare gia' in repo. Ancora segnaposto: prezzi, misure, fornitori.
+
+Lotto 2 B2B parrocchie (01/11/2026): +13 prodotti (stole, corporali, manutergi, ostensorio, patena, navicella, aspersorio, leggio, lampada Santissimo). Totale 124. Script: automation/aggiungi_prodotti.py automation/lotto2_parrocchie.py.

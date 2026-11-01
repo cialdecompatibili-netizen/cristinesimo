@@ -1544,6 +1544,240 @@
           "descrizione": "Wooden bedside cross with a small Sacred Heart image, to hang above the bed."
         }
       }
+    },
+    {
+      "tipo": "fisico",
+      "id": "stola-sacerdotale-viola-quaresima",
+      "nome": "Stola Sacerdotale Viola per Avvento e Quaresima",
+      "categoria": "paramenti-e-tessili",
+      "prezzo_centesimi": 4990,
+      "descrizione": "Stola viola con piccola croce ricamata, per i tempi di Avvento e Quaresima e per le confessioni.",
+      "descrizione_completa": "Materiale e lavorazione\nTessuto liturgico viola con ricamo; misure da confermare col fornitore.\nPer chi e pensato\nPer sacerdoti e parrocchie che completano i colori liturgici.",
+      "immagine": "assets/images/prodotti/stola-sacerdotale-viola-quaresima.webp",
+      "icona": "🧵",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Priest Stole in Purple for Advent and Lent",
+          "descrizione": "Purple stole with a small embroidered cross, for Advent, Lent and confessions."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "stola-sacerdotale-rossa",
+      "nome": "Stola Sacerdotale Rossa per Martiri e Pentecoste",
+      "categoria": "paramenti-e-tessili",
+      "prezzo_centesimi": 4990,
+      "descrizione": "Stola rossa con piccola croce ricamata, per Pentecoste, Domenica delle Palme e feste dei martiri.",
+      "descrizione_completa": "Materiale e lavorazione\nTessuto liturgico rosso con ricamo; misure da confermare.\nPer chi e pensato\nPer sacerdoti e parrocchie che completano i colori liturgici.",
+      "immagine": "assets/images/prodotti/stola-sacerdotale-rossa.webp",
+      "icona": "🧵",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Priest Stole in Red for Martyrs and Pentecost",
+          "descrizione": "Red stole with a small embroidered cross, for Pentecost, Palm Sunday and feasts of martyrs."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "corporali-cotone-set-6",
+      "nome": "Set 6 Corporali in Cotone Bianco",
+      "categoria": "paramenti-e-tessili",
+      "prezzo_centesimi": 1990,
+      "descrizione": "Sei corporali in cotone bianco con croce ricamata, da riordinare spesso in sacrestia.",
+      "descrizione_completa": "Materiale e lavorazione\nCotone bianco, 6 pezzi, lavabili.\nPer chi e pensato\nPer sacrestani e parrocchie.",
+      "immagine": "assets/images/prodotti/corporali-cotone-set-6.webp",
+      "icona": "🧵",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Set of 6 White Cotton Corporals",
+          "descrizione": "Six white cotton corporals with an embroidered cross, to restock often in the sacristy."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "manutergi-cotone-set-6",
+      "nome": "Set 6 Manutergi in Cotone",
+      "categoria": "paramenti-e-tessili",
+      "prezzo_centesimi": 1790,
+      "descrizione": "Sei manutergi in cotone bianco per il lavabo della Messa.",
+      "descrizione_completa": "Materiale e lavorazione\nCotone bianco, 6 pezzi, lavabili.\nPer chi e pensato\nPer sacrestani e parrocchie.",
+      "immagine": "assets/images/prodotti/manutergi-cotone-set-6.webp",
+      "icona": "🧵",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Set of 6 Cotton Lavabo Towels",
+          "descrizione": "Six white cotton towels for the lavabo at Mass."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "velo-omerale-bianco",
+      "nome": "Velo Omerale Bianco e Oro",
+      "categoria": "paramenti-e-tessili",
+      "prezzo_centesimi": 6900,
+      "descrizione": "Velo omerale bianco con ricami dorati per la benedizione eucaristica.",
+      "descrizione_completa": "Materiale e lavorazione\nTessuto liturgico con ricami; misure da confermare.\nPer chi e pensato\nPer parrocchie e comunita che celebrano l'adorazione.",
+      "immagine": "assets/images/prodotti/velo-omerale-bianco.webp",
+      "icona": "🧵",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "White and Gold Humeral Veil",
+          "descrizione": "White humeral veil with gold embroidery for Eucharistic benediction."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "velo-calice-quattro-colori-set",
+      "nome": "Set 4 Veli per Calice nei Colori Liturgici",
+      "categoria": "paramenti-e-tessili",
+      "prezzo_centesimi": 2990,
+      "descrizione": "Quattro veli per calice in bianco, rosso, verde e viola.",
+      "descrizione_completa": "Materiale e lavorazione\nTessuto liturgico; misure da confermare.\nPer chi e pensato\nPer sacrestie che vogliono tutti i colori in un solo set.",
+      "immagine": "assets/images/prodotti/velo-calice-quattro-colori-set.webp",
+      "icona": "🧵",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Set of 4 Chalice Veils in Liturgical Colours",
+          "descrizione": "Four chalice veils in white, red, green and purple."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "stendardo-processionale-madonna",
+      "nome": "Stendardo Processionale con Madonna",
+      "categoria": "paramenti-e-tessili",
+      "prezzo_centesimi": 12900,
+      "descrizione": "Stendardo con immagine della Madonna su tessuto blu e frange dorate, con asta in legno.",
+      "descrizione_completa": "Materiale e lavorazione\nTessuto con stampa o ricamo, asta in legno; misure da confermare.\nPer chi e pensato\nPer parrocchie, confraternite e processioni.",
+      "immagine": "assets/images/prodotti/stendardo-processionale-madonna.webp",
+      "icona": "🚩",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Processional Banner with Virgin Mary",
+          "descrizione": "Banner with an image of the Virgin Mary on blue fabric with gold fringe, on a wooden pole."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "ostensorio-ottone-dorato",
+      "nome": "Ostensorio in Ottone Dorato",
+      "categoria": "arredi-e-oggetti-liturgici",
+      "prezzo_centesimi": 14900,
+      "descrizione": "Ostensorio a raggi in ottone dorato per l'adorazione eucaristica.",
+      "descrizione_completa": "Materiale e lavorazione\nOttone dorato; altezza da confermare col fornitore.\nPer chi e pensato\nPer parrocchie, conventi e cappelle di adorazione.",
+      "immagine": "assets/images/prodotti/ostensorio-ottone-dorato.webp",
+      "icona": "⛪",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Gilded Brass Monstrance",
+          "descrizione": "Sunburst monstrance in gilded brass for Eucharistic adoration."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "patena-ottone-dorata",
+      "nome": "Patena in Ottone Dorato",
+      "categoria": "arredi-e-oggetti-liturgici",
+      "prezzo_centesimi": 3900,
+      "descrizione": "Patena in ottone dorato, da abbinare al calice.",
+      "descrizione_completa": "Materiale e lavorazione\nOttone dorato; diametro da confermare.\nPer chi e pensato\nPer sacerdoti e parrocchie.",
+      "immagine": "assets/images/prodotti/patena-ottone-dorata.webp",
+      "icona": "⛪",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Gilded Brass Paten",
+          "descrizione": "Gilded brass paten, to match the chalice."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "navicella-incenso-ottone",
+      "nome": "Navicella per Incenso in Ottone",
+      "categoria": "arredi-e-oggetti-liturgici",
+      "prezzo_centesimi": 3490,
+      "descrizione": "Navicella con cucchiaino in ottone per il turibolo, con coperchio.",
+      "descrizione_completa": "Materiale e lavorazione\nOttone; misure da confermare.\nPer chi e pensato\nPer sacrestie e cori.",
+      "immagine": "assets/images/prodotti/navicella-incenso-ottone.webp",
+      "icona": "⛪",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Brass Incense Boat",
+          "descrizione": "Brass incense boat with spoon for the thurible, with lid."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "aspersorio-secchiello-ottone",
+      "nome": "Secchiello e Aspersorio in Ottone",
+      "categoria": "arredi-e-oggetti-liturgici",
+      "prezzo_centesimi": 3290,
+      "descrizione": "Secchiello con aspersorio in ottone per la benedizione con l'acqua santa.",
+      "descrizione_completa": "Materiale e lavorazione\nOttone; capienza da confermare.\nPer chi e pensato\nPer parrocchie, benedizioni delle case e Pasqua.",
+      "immagine": "assets/images/prodotti/aspersorio-secchiello-ottone.webp",
+      "icona": "⛪",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Brass Holy Water Bucket and Sprinkler",
+          "descrizione": "Brass holy water bucket with sprinkler for blessings."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "leggio-legno-altare",
+      "nome": "Leggio da Altare in Legno",
+      "categoria": "arredi-e-oggetti-liturgici",
+      "prezzo_centesimi": 9900,
+      "descrizione": "Piccolo leggio da tavolo in legno con croce intagliata, per il messale.",
+      "descrizione_completa": "Materiale e lavorazione\nLegno; misure da confermare.\nPer chi e pensato\nPer piccole chiese, cappelle e sacrestie.",
+      "immagine": "assets/images/prodotti/leggio-legno-altare.webp",
+      "icona": "⛪",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Wooden Altar Lectern",
+          "descrizione": "Small tabletop wooden lectern with carved cross, for the missal."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "lampada-santissimo-ottone",
+      "nome": "Lampada del Santissimo in Ottone con Vetro Rosso",
+      "categoria": "candele-per-chiese",
+      "prezzo_centesimi": 5900,
+      "descrizione": "Lampada a sospensione in ottone con bicchiere di vetro rosso per il Santissimo.",
+      "descrizione_completa": "Materiale e lavorazione\nOttone, vetro rosso e catenelle; uso con olio o candela, da verificare col fornitore.\nPer chi e pensato\nPer chiese, cappelle e conventi.",
+      "immagine": "assets/images/prodotti/lampada-santissimo-ottone.webp",
+      "icona": "🕯️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Brass Sanctuary Lamp with Red Glass",
+          "descrizione": "Hanging brass sanctuary lamp with red glass cup."
+        }
+      }
     }
   ]
 }

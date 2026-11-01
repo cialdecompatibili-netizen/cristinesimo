@@ -75,6 +75,9 @@ P = [
   "Bedside Cross with Sacred Heart", "Wooden bedside cross with a small Sacred Heart image, to hang above the bed."),
 ]
 
+import sys
+if len(sys.argv) > 1:  # python automation/aggiungi_prodotti.py lotto.py -> il file lotto.py ridefinisce P (stesso formato)
+    exec(open(sys.argv[1], encoding="utf-8").read())
 n = 0
 for (i, c, nome, pr, breve, mat, perchi, ic, en_nome, en_breve) in P:
     if i in esistenti or c not in cats:
