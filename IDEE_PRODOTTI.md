@@ -203,3 +203,6 @@ Prossima sessione:
 - Aggiungere categorie: Battesimo, Comunione, Cresima, Matrimonio, Paramenti e Tessili, Candele per Chiese.
 - Sostituire foto provvisorie e correggere prezzi con fornitori reali.
 - Verificare dati di mercato con concorrenti prima di ordinare stock.
+
+## 13. Stato 01/11/2026
+Shop: 19 categorie, 111 prodotti (commit e4e8907). Aggiunti 16 prodotti da sezione 12 con foto Gemini (img.py). Script generico: automation/aggiungi_prodotti.py (cambia solo la lista P). Foto candele altare gia' in repo. Ancora segnaposto: prezzi, misure, fornitori.
