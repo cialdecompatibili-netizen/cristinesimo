@@ -188,6 +188,17 @@ Poi (gen-mar): kit Comunione/Cresima, bomboniere, libretti personalizzati.
 In parallelo B2B: pagina Per parrocchie con ceri, lumini, tovaglie, purificatoi, abiti chierichetti e richiesta preventivo.
 Ticket alto (solo dopo test): casule, calici, via crucis, statue grandi.
 
+## 12. MERCATI ESTERI - primi riscontri (01/11/2026, ricerca web, dati QUALITATIVI non di vendita)
+
+Fonti: negozio fisico A Coruna (ES, articolo 20/10/2026), Medellin (CO, Settimana Santa 2026), cataloghi USA (Catholic Shop, Catholic Company, House of Joppa, eBay), holyart.co.uk, Fatima, Lourdes.
+- ES: piu popolari catene, medaglie, santi; a Natale presepi e statuine (terracotta, resina, plastica); candele battesimali in forte richiesta; articoli comunione e battesimo. Il negoziante nota calo vendite candele rispetto al passato.
+- CO (Settimana Santa): Dolorosa, Gesu caduto, ceri e veladoras (giovedi-sabato santo).
+- USA: rosari (legno, pietre, paracord da tasca/polso, San Benedetto), medaglie santi, statue resina 5-8 pollici sui 15-29 USD, libri, gioielli di fede; regali per Battesimo/Comunione/Cresima. Rosari in metallo solo 12% dei top seller (stima da pagina Alibaba, poco affidabile).
+- UK (holyart): ricordini comunione a basso prezzo (magneti legno, pergamene Ultima Cena, croci in legno con cordino, chiavetti con crocifisso 1-4 GBP): volumi alti, margine su bomboniere.
+- Santuari (Fatima, Lourdes): catalogo da migliaia di articoli, sbocco di nicchia per souvenir da pellegrini, spedizione dal santuario.
+Idee da aggiungere: rosario paracord/da tasca, bracciale decenario, medaglia San Benedetto, mini statue 12-20 cm, candela battesimale personalizzata, ricordini comunione economici (magneti, pergamene), Dolorosa e Cristo caduto per Settimana Santa.
+DA FARE: verificare a mano negozi PL/DE/FR/PT (non trovati dati utili) e prezzi reali.
+
 Prossima sessione:
 - Aggiungere categorie: Battesimo, Comunione, Cresima, Matrimonio, Paramenti e Tessili, Candele per Chiese.
 - Sostituire foto provvisorie e correggere prezzi con fornitori reali.

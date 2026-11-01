@@ -996,11 +996,11 @@
     {
       "tipo": "fisico",
       "id": "candele-liturgiche-altare-set-10",
-      "nome": "Set 10 Candele Liturgiche d'Altare",
+      "nome": "Set 10 Candele d'Altare 4 x 40 cm",
       "categoria": "candele-per-chiese",
-      "prezzo_centesimi": 3290,
-      "descrizione": "Dieci candele bianche per altare, adatte a candelieri standard.",
-      "descrizione_completa": "Materiale e lavorazione\nCera, diametro 4 cm, h 40 cm.\nPer chi e pensato\nPer sacrestie che usano candele ogni settimana.",
+      "prezzo_centesimi": 8900,
+      "descrizione": "Dieci candele bianche d'altare alte 40 cm, per candelieri standard e celebrazioni frequenti.",
+      "descrizione_completa": "Materiale e lavorazione\nCera bianca, stoppino centrato. Diametro 4 cm, altezza 40 cm, 10 pezzi.\nPer chi e pensato\nPer sacrestie e parrocchie: controllare diametro e altezza del proprio candeliere prima dell'acquisto.",
       "immagine": "assets/images/prodotti/candele-liturgiche-altare-set-10.webp",
       "icona": "🕯️",
       "visibile": true
@@ -1172,6 +1172,378 @@
       "immagine": "assets/images/prodotti/via-crucis-14-stazioni-resina.webp",
       "icona": "⛪",
       "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "candele-altare-3x15-set-6",
+      "nome": "Set 6 Candele d'Altare Corte 3,2 x 15 cm",
+      "categoria": "candele-per-chiese",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Sei candele bianche corte e sottili per candelieri piccoli, cappelle e altari laterali.",
+      "descrizione_completa": "Materiale e lavorazione\nCera bianca, stoppino centrato. Diametro 3,2 cm, altezza 15 cm, 6 pezzi.\nPer chi e pensato\nPer sacrestie e parrocchie: controllare diametro e altezza del proprio candeliere prima dell'acquisto.",
+      "immagine": "assets/images/prodotti/candele-altare-3x15-set-6.webp",
+      "icona": "🕯️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "candele-altare-4x25-set-25",
+      "nome": "Set 25 Candele d'Altare 4 x 25 cm",
+      "categoria": "candele-per-chiese",
+      "prezzo_centesimi": 3690,
+      "descrizione": "Confezione da 25 candele bianche d'altare, la misura piu usata per i candelieri comuni.",
+      "descrizione_completa": "Materiale e lavorazione\nCera bianca, stoppino centrato. Diametro 4 cm, altezza 25 cm, 25 pezzi.\nPer chi e pensato\nPer sacrestie e parrocchie: controllare diametro e altezza del proprio candeliere prima dell'acquisto.",
+      "immagine": "assets/images/prodotti/candele-altare-4x25-set-25.webp",
+      "icona": "🕯️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "candela-altare-4x60-singola",
+      "nome": "Candela d'Altare 4 x 60 cm, Singola",
+      "categoria": "candele-per-chiese",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Singola candela bianca slanciata per candelieri alti e processioni.",
+      "descrizione_completa": "Materiale e lavorazione\nCera bianca, stoppino centrato. Diametro 4 cm, altezza 60 cm, venduta singola.\nPer chi e pensato\nPer sacrestie e parrocchie: controllare diametro e altezza del proprio candeliere prima dell'acquisto.",
+      "immagine": "assets/images/prodotti/candela-altare-4x60-singola.webp",
+      "icona": "🕯️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "candela-altare-5x80-singola",
+      "nome": "Candela d'Altare 5 x 80 cm, Singola",
+      "categoria": "candele-per-chiese",
+      "prezzo_centesimi": 2990,
+      "descrizione": "Singola candela bianca alta e robusta per altare maggiore e solennita.",
+      "descrizione_completa": "Materiale e lavorazione\nCera bianca, stoppino centrato. Diametro 5 cm, altezza 80 cm, venduta singola.\nPer chi e pensato\nPer sacrestie e parrocchie: controllare diametro e altezza del proprio candeliere prima dell'acquisto.",
+      "immagine": "assets/images/prodotti/candela-altare-5x80-singola.webp",
+      "icona": "🕯️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "candele-altare-6x20-set-6",
+      "nome": "Set 6 Candele d'Altare Larghe 6 x 20 cm",
+      "categoria": "candele-per-chiese",
+      "prezzo_centesimi": 5900,
+      "descrizione": "Sei candele bianche larghe e basse, a lunga durata, per altari e cappelle.",
+      "descrizione_completa": "Materiale e lavorazione\nCera bianca, stoppino centrato. Diametro 6 cm, altezza 20 cm, 6 pezzi.\nPer chi e pensato\nPer sacrestie e parrocchie: controllare diametro e altezza del proprio candeliere prima dell'acquisto.",
+      "immagine": "assets/images/prodotti/candele-altare-6x20-set-6.webp",
+      "icona": "🕯️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "candela-altare-8x24-singola",
+      "nome": "Candela d'Altare Larga 8 x 24 cm, Singola",
+      "categoria": "candele-per-chiese",
+      "prezzo_centesimi": 1790,
+      "descrizione": "Singola candela bianca molto larga e bassa, a lunga durata, per altari e presbiterio.",
+      "descrizione_completa": "Materiale e lavorazione\nCera bianca, stoppino centrato. Diametro 8 cm, altezza 24 cm, venduta singola.\nPer chi e pensato\nPer sacrestie e parrocchie: controllare diametro e altezza del proprio candeliere prima dell'acquisto.",
+      "immagine": "assets/images/prodotti/candela-altare-8x24-singola.webp",
+      "icona": "🕯️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "candele-votive-alte-2-5x70-set-5",
+      "nome": "Set 5 Candele Votive Alte 2,5 x 70 cm",
+      "categoria": "candele-per-chiese",
+      "prezzo_centesimi": 1990,
+      "descrizione": "Cinque candele votive bianche lunghe e sottili, per processioni, Candelora e cerimonie.",
+      "descrizione_completa": "Materiale e lavorazione\nCera bianca, stoppino centrato. Diametro 2,5 cm, altezza 70 cm, 5 pezzi.\nPer chi e pensato\nPer sacrestie e parrocchie: controllare diametro e altezza del proprio candeliere prima dell'acquisto.",
+      "immagine": "assets/images/prodotti/candele-votive-alte-2-5x70-set-5.webp",
+      "icona": "🕯️",
+      "visibile": true
+    },
+    {
+      "tipo": "fisico",
+      "id": "rosario-paracord-tasca",
+      "nome": "Rosario Paracord da Tasca a Una Decade",
+      "categoria": "rosari-e-corone",
+      "prezzo_centesimi": 790,
+      "descrizione": "Rosario a una decade in cordino paracord nero con crocifisso e medaglia, piccolo e resistente.",
+      "descrizione_completa": "Materiale e lavorazione\nCordino paracord, crocifisso e medaglia in metallo.\nPer chi e pensato\nPer chi vuole il rosario sempre con se, in tasca o nello zaino.",
+      "immagine": "assets/images/prodotti/rosario-paracord-tasca.webp",
+      "icona": "📿",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Paracord Pocket Rosary, One Decade",
+          "descrizione": "One-decade rosary in black paracord cord with crucifix and medal, small and hard-wearing."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "bracciale-decenario-ulivo",
+      "nome": "Bracciale Decenario in Legno d'Ulivo",
+      "categoria": "rosari-e-corone",
+      "prezzo_centesimi": 690,
+      "descrizione": "Bracciale a una decade con grani in legno d'ulivo su filo elastico e piccola croce.",
+      "descrizione_completa": "Materiale e lavorazione\nGrani in legno d'ulivo, filo elastico, croce in legno.\nPer chi e pensato\nPer chi prega con un rosario discreto da portare al polso; ottimo regalo.",
+      "immagine": "assets/images/prodotti/bracciale-decenario-ulivo.webp",
+      "icona": "📿",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Olive Wood Decade Bracelet",
+          "descrizione": "One-decade bracelet with olive wood beads on elastic cord and a small cross."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "statua-addolorata-resina",
+      "nome": "Statua Madonna Addolorata in Resina 30 cm",
+      "categoria": "statue-e-crocifissi",
+      "prezzo_centesimi": 3990,
+      "descrizione": "Statua della Madonna Addolorata in resina dipinta, circa 30 cm, per la Settimana Santa e la casa.",
+      "descrizione_completa": "Materiale e lavorazione\nResina dipinta a mano, altezza circa 30 cm.\nPer chi e pensato\nPer devoti della Settimana Santa, parrocchie e confraternite.",
+      "immagine": "assets/images/prodotti/statua-addolorata-resina.webp",
+      "icona": "⛪",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Our Lady of Sorrows Resin Statue 30 cm",
+          "descrizione": "Hand-painted resin statue of Our Lady of Sorrows, about 30 cm, for Holy Week and the home."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "statua-cristo-caduto-resina",
+      "nome": "Statua Cristo Caduto in Resina",
+      "categoria": "statue-e-crocifissi",
+      "prezzo_centesimi": 3490,
+      "descrizione": "Statua di Gesu che cade sotto la croce, in resina dipinta, soggetto tipico delle processioni di Settimana Santa.",
+      "descrizione_completa": "Materiale e lavorazione\nResina dipinta a mano; misure da confermare col fornitore.\nPer chi e pensato\nPer chi cerca un soggetto per la Settimana Santa, per casa o chiesa.",
+      "immagine": "assets/images/prodotti/statua-cristo-caduto-resina.webp",
+      "icona": "⛪",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Fallen Christ Resin Statue",
+          "descrizione": "Statue of Jesus falling under the cross, in painted resin, a classic Holy Week procession subject."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "set-mini-statue-santi-12cm",
+      "nome": "Set 3 Mini Statue Santi 12 cm",
+      "categoria": "statue-e-crocifissi",
+      "prezzo_centesimi": 1990,
+      "descrizione": "Tre piccole statue in resina: San Francesco, Sant'Antonio e Santa Rita, da mensola o scrivania.",
+      "descrizione_completa": "Materiale e lavorazione\nResina dipinta, altezza circa 12 cm ciascuna.\nPer chi e pensato\nPer chi vuole piu santi in poco spazio, o come regalo.",
+      "immagine": "assets/images/prodotti/set-mini-statue-santi-12cm.webp",
+      "icona": "⛪",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Set of 3 Mini Saint Statues 12 cm",
+          "descrizione": "Three small resin statues: Saint Francis, Saint Anthony and Saint Rita, for a shelf or desk."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "statua-bambino-gesu-praga",
+      "nome": "Statua Bambino Gesu di Praga in Resina 20 cm",
+      "categoria": "statue-e-crocifissi",
+      "prezzo_centesimi": 2790,
+      "descrizione": "Statua del Bambino Gesu di Praga con corona e veste rossa e oro, in resina dipinta.",
+      "descrizione_completa": "Materiale e lavorazione\nResina dipinta a mano, altezza circa 20 cm.\nPer chi e pensato\nPer devoti del Bambino Gesu di Praga e come regalo.",
+      "immagine": "assets/images/prodotti/statua-bambino-gesu-praga.webp",
+      "icona": "⛪",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Infant Jesus of Prague Resin Statue 20 cm",
+          "descrizione": "Infant Jesus of Prague statue with crown and red and gold robe, in painted resin."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "magneti-ricordino-comunione-set-10",
+      "nome": "Set 10 Magneti Ricordino Prima Comunione",
+      "categoria": "prima-comunione",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Dieci magneti in legno con calice e ostia, ricordino economico da consegnare agli invitati.",
+      "descrizione_completa": "Materiale e lavorazione\nLegno con magnete, confezione da 10 pezzi.\nPer chi e pensato\nPer famiglie che organizzano la Comunione e cercano ricordini a basso costo.",
+      "immagine": "assets/images/prodotti/magneti-ricordino-comunione-set-10.webp",
+      "icona": "🕊",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Set of 10 First Communion Keepsake Magnets",
+          "descrizione": "Ten wooden magnets with chalice and host, a low-cost keepsake to give to guests."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "pergamena-ultima-cena-comunione-set-10",
+      "nome": "Set 10 Pergamene Ultima Cena per Comunione",
+      "categoria": "prima-comunione",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Dieci piccole pergamene ricordo con l'Ultima Cena, legate con nastro, da consegnare agli invitati.",
+      "descrizione_completa": "Materiale e lavorazione\nCarta effetto pergamena con nastro, confezione da 10.\nPer chi e pensato\nPer ricordini economici di Prima Comunione.",
+      "immagine": "assets/images/prodotti/pergamena-ultima-cena-comunione-set-10.webp",
+      "icona": "🕊",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Set of 10 Last Supper Communion Scrolls",
+          "descrizione": "Ten small keepsake scrolls showing the Last Supper, tied with ribbon, to give to guests."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "croci-legno-cordino-set-10",
+      "nome": "Set 10 Croci in Legno con Cordino",
+      "categoria": "prima-comunione",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Dieci piccole croci in legno con cordino, ricordino per Comunione, Cresima e Battesimo.",
+      "descrizione_completa": "Materiale e lavorazione\nLegno con cordino, confezione da 10 pezzi.\nPer chi e pensato\nPer ricordini da distribuire agli invitati a un sacramento.",
+      "immagine": "assets/images/prodotti/croci-legno-cordino-set-10.webp",
+      "icona": "✝️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Set of 10 Wooden Crosses with Cord",
+          "descrizione": "Ten small wooden crosses on cord, a keepsake for Communion, Confirmation and Baptism."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "quadretto-angelo-custode-culla",
+      "nome": "Quadretto Angelo Custode per Culla",
+      "categoria": "battesimo",
+      "prezzo_centesimi": 1790,
+      "descrizione": "Piccolo quadretto con l'angelo custode che protegge un bambino, da appendere sopra la culla.",
+      "descrizione_completa": "Materiale e lavorazione\nStampa su supporto rigido con cornice leggera; misure da confermare.\nPer chi e pensato\nPer regalo di nascita e Battesimo.",
+      "immagine": "assets/images/prodotti/quadretto-angelo-custode-culla.webp",
+      "icona": "👼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Guardian Angel Picture for a Crib",
+          "descrizione": "Small picture of a guardian angel watching over a child, to hang above the crib."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "corona-avvento-legno",
+      "nome": "Corona d'Avvento in Legno con 4 Candele",
+      "categoria": "presepi-e-natale",
+      "prezzo_centesimi": 2490,
+      "descrizione": "Corona d'Avvento in legno con quattro candele e decori verdi, per le quattro domeniche prima di Natale.",
+      "descrizione_completa": "Materiale e lavorazione\nLegno e decori; candele incluse.\nPer chi e pensato\nPer famiglie, scuole e parrocchie.",
+      "immagine": "assets/images/prodotti/corona-avvento-legno.webp",
+      "icona": "🎄",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Wooden Advent Wreath with 4 Candles",
+          "descrizione": "Wooden Advent wreath with four candles and green decoration, for the four Sundays before Christmas."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "mini-presepe-tavolo-legno",
+      "nome": "Mini Presepe da Tavolo in Legno",
+      "categoria": "presepi-e-natale",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Piccolo presepe in legno con capanna e Sacra Famiglia, da tavolo o mensola.",
+      "descrizione_completa": "Materiale e lavorazione\nLegno e resina; misure da confermare.\nPer chi e pensato\nPer chi ha poco spazio o cerca un regalo di Natale.",
+      "immagine": "assets/images/prodotti/mini-presepe-tavolo-legno.webp",
+      "icona": "🎄",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Small Wooden Tabletop Nativity",
+          "descrizione": "Small wooden nativity with stable and Holy Family, for a table or shelf."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "bue-asinello-presepe-set",
+      "nome": "Bue e Asinello per Presepe in Resina",
+      "categoria": "statuine-e-accessori-presepe",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Coppia di statuine bue e asinello in resina dipinta per completare la Natività.",
+      "descrizione_completa": "Materiale e lavorazione\nResina dipinta; scala da scegliere in base al presepe.\nPer chi e pensato\nPer chi completa o rinnova il presepe.",
+      "immagine": "assets/images/prodotti/bue-asinello-presepe-set.webp",
+      "icona": "🎄",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Ox and Donkey Resin Figures for Nativity",
+          "descrizione": "Pair of painted resin ox and donkey figures to complete the Nativity."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "stella-cometa-led-presepe",
+      "nome": "Stella Cometa con Luce LED per Presepe",
+      "categoria": "statuine-e-accessori-presepe",
+      "prezzo_centesimi": 990,
+      "descrizione": "Stella cometa con coda dorata e luce LED calda, da mettere sopra la capanna.",
+      "descrizione_completa": "Materiale e lavorazione\nPlastica e LED; alimentazione da verificare col fornitore.\nPer chi e pensato\nPer presepi domestici di ogni misura.",
+      "immagine": "assets/images/prodotti/stella-cometa-led-presepe.webp",
+      "icona": "⭐",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Comet Star with LED Light for Nativity",
+          "descrizione": "Comet star with golden tail and warm LED light, to place above the stable."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "lumini-defunti-vetro-set-12",
+      "nome": "Set 12 Lumini in Vetro Rosso per Defunti",
+      "categoria": "candele-e-incenso",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Dodici portalumini in vetro rosso con lumino, per ricordare i defunti al cimitero o a casa.",
+      "descrizione_completa": "Materiale e lavorazione\nVetro rosso e lumini; adatti anche per l'esterno al riparo dal vento.\nPer chi e pensato\nPer il 2 novembre, le tombe di famiglia e le candele di suffragio.",
+      "immagine": "assets/images/prodotti/lumini-defunti-vetro-set-12.webp",
+      "icona": "🕯️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Set of 12 Red Glass Candles for the Departed",
+          "descrizione": "Twelve red glass candle holders with tea lights, to remember the departed at the cemetery or at home."
+        }
+      }
+    },
+    {
+      "tipo": "fisico",
+      "id": "croce-capezzale-sacro-cuore",
+      "nome": "Croce da Capezzale con Sacro Cuore",
+      "categoria": "regali-ricorrenze",
+      "prezzo_centesimi": 1990,
+      "descrizione": "Croce da capezzale in legno con piccola immagine del Sacro Cuore, da appendere sopra il letto.",
+      "descrizione_completa": "Materiale e lavorazione\nLegno con immagine stampata; misure da confermare.\nPer chi e pensato\nPer chi vuole un segno di fede in camera da letto; regalo per Battesimo o matrimonio.",
+      "immagine": "assets/images/prodotti/croce-capezzale-sacro-cuore.webp",
+      "icona": "✝️",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Bedside Cross with Sacred Heart",
+          "descrizione": "Wooden bedside cross with a small Sacred Heart image, to hang above the bed."
+        }
+      }
     }
   ]
 }

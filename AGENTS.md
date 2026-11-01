@@ -57,3 +57,6 @@ Quando scrivi codice nuovo, aggiungi la testata `GUIDA-SVILUPPO:` e commenta i p
 
 ## Stile di lavoro richiesto dal proprietario
 Risposte brevissime, modifiche in una sola chiamata dove possibile, commenti guida nei punti critici del codice, niente giri di parole.
+
+## Immagini
+Generare SEMPRE con C:\Users\mirco\Desktop\gemini_auto\img.py (via API, senza Chrome; guida IMMAGINI_API.md). Mai il watcher con Chrome se non come piano B. Dopo la generazione guardare l'immagine prima di dire fatto.
